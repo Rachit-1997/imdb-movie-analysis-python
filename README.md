@@ -69,17 +69,17 @@ IMDB-movie-project/
    jupyter notebook notebook/IMDB_movie_project.ipynb
 
 🎯 Result & Learning
-Learned how to perform end-to-end EDA on real-world data
-Improved skills in Python, Pandas, and Seaborn visualizations
-Gained insights into movie trends and audience preferences
-This project showcases analytical and visualization skills for data analyst roles
+-Learned how to perform end-to-end EDA on real-world data
+-Improved skills in Python, Pandas, and Seaborn visualizations
+-Gained insights into movie trends and audience preferences
+-This project showcases analytical and visualization skills for data analyst roles
 
 👤 About Me
 I am a fresher aspiring for data analyst roles with skills in:
 
-Python
-SQL
-Excel
-Power BI
-Data Visualization
-Statistical Analysis
+-Python
+-SQL
+-Excel
+-Power BI
+-Data Visualization
+-Statistical Analysis
